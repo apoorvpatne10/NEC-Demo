@@ -1,6 +1,6 @@
 # Visual Lip Reading NEC-Demo
 
-The repository contains a small subset of GRID CORPUS to see how code for preprocessing, training and prediction works.
+The repository contains a small subset of GRID CORPUS to see how code for preprocessing, training and prediction works. Just for demonstration purposes.
 
 ## Dataset Preprocessing
 Run mouth_extract.py in the MouthExtract directory. The code loads videos from the Video folder and saves each video as 75 mouth-crop frames.

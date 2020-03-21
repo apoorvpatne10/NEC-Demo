@@ -10,3 +10,8 @@ Run train.py in the Training directory. The code loads training data which is pr
 
 ## Prediction
 Run GUI.py in the PredictGUI directory.
+
+## Check Out Demo (Click to View)
+
+[![Watch the video](https://i.imgur.com/nL1PO8W.png)](https://youtu.be/KJtqqabuGYI)
+
